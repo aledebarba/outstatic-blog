@@ -8,6 +8,14 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "URL"
+    },
+    "category": {
+      "required": false,
+      "description": "Link category",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Category",
+      "values": []
     }
   }
 }
