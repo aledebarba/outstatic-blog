@@ -1,6 +1,6 @@
 {
-  "commit": "c426061117bd9a6425b69fb41702d2661a4b34ee",
-  "generated": "2024-02-23T16:24:13.833Z",
+  "commit": "3327c08a2d379259837a72e5ad8a9e7cbaab9f2b",
+  "generated": "2024-02-23T16:29:53.088Z",
   "metadata": [
     {
       "__outstatic": {
@@ -160,8 +160,8 @@
     },
     {
       "__outstatic": {
-        "commit": "c426061117bd9a6425b69fb41702d2661a4b34ee",
-        "hash": "711042213",
+        "commit": "3327c08a2d379259837a72e5ad8a9e7cbaab9f2b",
+        "hash": "3093074323",
         "path": "outstatic/content/pages/links-library.md"
       },
       "author": {
@@ -169,11 +169,10 @@
         "picture": "https://avatars.githubusercontent.com/u/28566959?v=4"
       },
       "collection": "pages",
-      "coverImage": "https://images.pexels.com/photos/6549919/pexels-photo-6549919.jpeg?auto=compress&cs=tinysrgb&w=800",
       "description": "Links directory.",
       "publishedAt": "2024-02-23T16:00:45.775Z",
       "slug": "links-library",
-      "status": "draft",
+      "status": "published",
       "title": "Links Library"
     }
   ]
