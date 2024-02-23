@@ -1,0 +1,13 @@
+{
+  "title": "links",
+  "type": "object",
+  "properties": {
+    "url": {
+      "required": true,
+      "description": "The link address",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "URL"
+    }
+  }
+}
